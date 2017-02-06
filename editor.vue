@@ -3,10 +3,11 @@
 </template>
 
 <script>
-  require('quill/dist/quill.snow.css')
-  require('quill/dist/quill.bubble.css')
-  require('quill/dist/quill.core.css')
-  window.Quill = require('quill/dist/quill.js')
+  // require('quill/dist/quill.snow.css')
+  // require('quill/dist/quill.bubble.css')
+  // require('quill/dist/quill.core.css')
+  // window.Quill = require('quill/dist/quill.js')
+
   export default {
     name: 'quill-editor',
     data() {
